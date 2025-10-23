@@ -8,7 +8,7 @@ A comprehensive single-store inventory and billing system built with Laravel 12,
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SOBOJBANGLA/Inventory-Billing-System.git
    cd inventory-billing-system
    ```
 
