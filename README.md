@@ -1,6 +1,6 @@
 # Inventory & Billing System
 
-A comprehensive single-store inventory and billing system built with Laravel 12, Vue.js 3, and MySQL.
+Inventory and Billing system.
 
 ## Installation
 
